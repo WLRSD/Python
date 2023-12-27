@@ -18,9 +18,8 @@ em diverentes áreas, desde <strong>DATA SCIENCE</strong> até <strong>WEB</stro
  - é basicamente como um programa que acessa funcionalidade de outros sites.
  É muito utilizado para pegar/reaproveitar uma informação que já contém em outro site/programa
  <h4>EXEMPLO: Facebook</h4>
-- A <h6>API</h6> do <h6>Facebook</h6> pode ser integrado como forma de login em seu site/programa. Assim você não precisa recriar a roda.
-- O Facebook que irá filtrar o que você pode ou não fazer/ter acesso. É interessante você criar sua própria API para ter o conhecimento e conseguir demonstrar tal conhecimento para propostas de emprego. Mas, visando a facilidade no mundo cooporativo e reduzir tempo e dor de cabeça, utilizar <h6>API's</h6> já prontas e de grandes empresas (GOOGLE, YOUTUBE, AMAZON, FACEBOOK) facilita que não tenha que ser você a dar 
- manutenção sempre.
+- A <strong>API</strong> do <strong>Facebook</strong> pode ser integrado como forma de login em seu <strong>site/programa</strong>. Assim você não precisa recriar a roda.
+- O <strong>Facebook</strong> que irá filtrar o que você pode ou não fazer/ter acesso. É interessante você criar sua própria <strong>API</strong> para ter o conhecimento e conseguir demonstrar tal conhecimento para propostas de emprego. Mas, visando a facilidade no mundo cooporativo e reduzir tempo e dor de cabeça, utilizar <strong>API's</strong> já prontas e de grandes empresas <strong>(GOOGLE, YOUTUBE, AMAZON, FACEBOOK)</strong> facilita que não tenha que ser você a dar manutenção sempre.
 <h3> FORMAS DE USAR UMA API: </h3>
- <h6>CONSUMINDO/RECEBENDO:</h6> Apenas conseguirá receber as informações, não tendo qualquer outro vínculo. Poderá apenas obter as informações da <h6>API</h6>;
- <h6>ENVIANDO/REQUISITANDO:</h6> Podendo enviar solicitações de verificação à <h6>API</h6> e recebendo como resposta da solicitação uma solicitação.
+ <strong>CONSUMINDO/RECEBENDO:</strong> Apenas conseguirá receber as informações, não tendo qualquer outro vínculo. Poderá apenas obter as informações da <strong>API</strong>;
+ <strong>ENVIANDO/REQUISITANDO:</strong> Podendo enviar solicitações de verificação à <strong>API</strong> e recebendo como resposta da solicitação uma solicitação.
