@@ -2,7 +2,7 @@
 <h5>Repositório de estudo!</h5> 
 Nesse repositório, desejo trazer meu avanço com a linguagem de programação, assim poderei revisitar quando esquecer certos
 comandos, mas, também servirá de comprovação de minhas habilidades e de formas que encontrei na internet sobre o poder do Python
-em diverentes áreas, desde **DATA SCIENCE** até **WEB**.
+em diverentes áreas, desde DATA SCIENCE até WEB.
 
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 - 📚 atualmente estou estudando pelo [DEV APRENDER](https://membros.devaprender.com/)
