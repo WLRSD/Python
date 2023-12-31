@@ -24,8 +24,7 @@ em diverentes áreas, desde <strong>DATA SCIENCE</strong> até <strong>WEB</stro
  <strong>CONSUMINDO/RECEBENDO:</strong> Apenas conseguirá receber as informações, não tendo qualquer outro vínculo. Poderá apenas obter as informações da <strong>API</strong>; <br>
  <strong>ENVIANDO/REQUISITANDO:</strong> Podendo enviar solicitações de verificação à <strong>API</strong> e recebendo como resposta da solicitação uma solicitação.
 
-# Estudo - Python 
-### **Jetbrains**
+<h2 align="center"> <strong>Jetbrains</strong> </h2>
 Introdução ao Python:
 - desenvolvido por Guido van Rossum em 1991
 - Nome em homenagem a: Monty Python (grupo de comédia britânico)
