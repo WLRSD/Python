@@ -25,7 +25,7 @@ em diverentes áreas, desde <strong>DATA SCIENCE</strong> até <strong>WEB</stro
  <strong>ENVIANDO/REQUISITANDO:</strong> Podendo enviar solicitações de verificação à <strong>API</strong> e recebendo como resposta da solicitação uma solicitação.
 
 <h2 align="center"> <strong>Jetbrains</strong> </h2>
-Introdução ao Python:
+## Introdução ao Python:
 - desenvolvido por Guido van Rossum em 1991
 - Nome em homenagem a: Monty Python (grupo de comédia britânico)
 
@@ -60,7 +60,7 @@ Para comentar no _Python_ é só utilizar o '#' antes do comentário.
 ##### Case Sensitive:
 No _Python_ é necessário ter cuidado com letras Maiúsculas e minúsculas, pois ele é _Case Sensitive_, o que implica dizer que uma letra maiúscula ou minúscula vai influenciar no código.
 
-# DJANGO
+<h2 align="center"> DJANGO </h2>
 
 ### Para iniciar o projeto, foi necessário a instalação do **Anaconda Prompt**. Visto que foi necessário criar um **ambiente virtual** com uma versão do _python_ específica para trabalhar (no caso o **3.6**).
 
