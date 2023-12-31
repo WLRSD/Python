@@ -10,7 +10,7 @@ em diverentes áreas, desde <strong>DATA SCIENCE</strong> até <strong>WEB</stro
 
 
 - 📚 atualmente estou estudando pelo [DEV APRENDER](https://membros.devaprender.com/)
-  ###### mas também estou seguindo o [RoadMap - Python](https://roadmap.sh/python) e também estou aprendendo com [Hashtag - Python](https://www.youtube.com/@HashtagProgramacao)
+  ###### mas também estou seguindo o [RoadMap - Python](https://roadmap.sh/python) e também estou aprendendo com [Hashtag - Python](https://www.youtube.com/@HashtagProgramacao) e [Jetbrains](https://hyperskill.org/tracks)
 <h3 align="center"> API NO PYTHON </h3>
 <h5 align="center"> Conteúdo: Hashtag</h5> 
 <br>
@@ -23,3 +23,40 @@ em diverentes áreas, desde <strong>DATA SCIENCE</strong> até <strong>WEB</stro
 <h3> FORMAS DE USAR UMA API: </h3>
  <strong>CONSUMINDO/RECEBENDO:</strong> Apenas conseguirá receber as informações, não tendo qualquer outro vínculo. Poderá apenas obter as informações da <strong>API</strong>; <br>
  <strong>ENVIANDO/REQUISITANDO:</strong> Podendo enviar solicitações de verificação à <strong>API</strong> e recebendo como resposta da solicitação uma solicitação.
+
+# Estudo - Python 
+### **Jetbrains**
+Introdução ao Python:
+- desenvolvido por Guido van Rossum em 1991
+- Nome em homenagem a: Monty Python (grupo de comédia britânico)
+
+## áreas de atuação
+- Desenvolvimento Web:
+Com auxílio dos frameworks **Django** e **Flask**, o _Python_ é capaz de construir sites dinamicamente.
+##### Em meu projeto: [SiteFlask](https://github.com/WLRSD/SiteFlask) é possível ter uma noção de como é simples, de fácil compreensão a construção de sites em python. Porém, o **Flask** é visto como "básico", comparado ao **Django**.
+
+- Ciência de dados:
+Utilizando a biblioteca **Numpy**, **Pandas** e **TensorFlow** é possível utilizar o _Python_ para análises de dados e aprendizado de máquina!
+
+- Scripting:
+Acredito que seja a área em que o _Python_ começou ganhando mais destaque, sendo a área de **Automações de tarefas**. Para isso, é quase que indiscutível em comunidades e entre programadores, que o _Python_ é a linguagem certa para isso. Podendo automatizar desdes tarefas em ambiente local à automações online.
+
+## Paradigma
+O _Python_ é multiparadigma. Sendo **funcional**; **orientado a objetos**, **estruturado** e outros que aind não descobri.
+
+## Sintaxe
+A sintaxe (De acordo com o **Google**, a melhor forma de explicar é: _Sintaxe é o conjunto de regras que determina quais combinações de símbolos e palavras-chaves podem ser utilizadas em uma linguagem de programação_).
+
+##### Exemplo de sintaxe em Python:
+```Python
+  age = input("How old are you? ")
+  print("I know, that you're " + age + " years old")
+```
+##### Estrutura de indentação
+No _Python_ não é necessário o uso do ';'. Porém, é necessário ter conhecimento sobre indentação, pois é algo que pode ocasionar em um erro genérico e sem muitas informações em seu código. O _Python_ trabalha com esse sistema, onde todo tipo de classe/função filho, tem que estar indentado na classe/função pai. Caso não esteja, pode ocasionar em erros. 
+
+##### Comentário no Python:
+Para comentar no _Python_ é só utilizar o '#' antes do comentário.
+
+##### Case Sensitive:
+No _Python_ é necessário ter cuidado com letras Maiúsculas e minúsculas, pois ele é _Case Sensitive_, o que implica dizer que uma letra maiúscula ou minúscula vai influenciar no código.
