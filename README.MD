@@ -74,27 +74,27 @@ No _Python_ é necessário ter cuidado com letras Maiúsculas e minúsculas, poi
 ```PowerShell
   dir
 ```
-- Utilizado para listar todas as pastas que existem naquele diretório.
+ ###### Utilizado para listar todas as pastas que existem naquele diretório.
 ```PowerShell
   cd
 ```
-- Utilizado para navegar entre diretórios/pastas.
+ ###### Utilizado para navegar entre diretórios/pastas.
 ```PowerShell
   mkdir [nomedapastacriada]
 ```
-- Utilizado para criar um(a) diretório/pasta, signifca _make diretory_
+ ###### Utilizado para criar um(a) diretório/pasta, signifca _make diretory_
 ```PowerShell
   cls
 ```
-- Utilizado para limpar o terminal, voltando para a primeira linha do terminal.
+ ###### Utilizado para limpar o terminal, voltando para a primeira linha do terminal.
 ```PowerShell
   cd..
 ```
-- Utilizado para voltar para um diretório/pasta anterior.
+ ###### Utilizado para voltar para um diretório/pasta anterior.
 ```PowerShell
   conda create -n [nomedapastacriada] python=3.6
 ```
-- Utilizado para criar o ambiente virtual do Django. E após isso, você deverá utilizar outro comando para **ativar** ele, que é o seguinte:
+ ###### Utilizado para criar o ambiente virtual do Django. E após isso, você deverá utilizar outro comando para **ativar** ele, que é o seguinte:
 ```PowerShell
   conda activate [nomedapastacriada]
 ```
