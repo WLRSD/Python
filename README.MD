@@ -25,7 +25,8 @@ em diverentes áreas, desde <strong>DATA SCIENCE</strong> até <strong>WEB</stro
  <strong>ENVIANDO/REQUISITANDO:</strong> Podendo enviar solicitações de verificação à <strong>API</strong> e recebendo como resposta da solicitação uma solicitação.
 
 <h2 align="center"> <strong>Jetbrains</strong> </h2>
-## Introdução ao Python:
+
+##### Introdução ao Python:
 - desenvolvido por Guido van Rossum em 1991
 - Nome em homenagem a: Monty Python (grupo de comédia britânico)
 
