@@ -60,3 +60,49 @@ Para comentar no _Python_ é só utilizar o '#' antes do comentário.
 
 ##### Case Sensitive:
 No _Python_ é necessário ter cuidado com letras Maiúsculas e minúsculas, pois ele é _Case Sensitive_, o que implica dizer que uma letra maiúscula ou minúscula vai influenciar no código.
+
+# DJANGO
+
+### Para iniciar o projeto, foi necessário a instalação do **Anaconda Prompt**. Visto que foi necessário criar um **ambiente virtual** com uma versão do _python_ específica para trabalhar (no caso o **3.6**).
+
+##### Caso queira saber o site para baixar o prompt do **Anaconda**: [Site Anaconda](https://www.anaconda.com/download), mas caso queira o passo-a-passo: [Vídeo - HASHTAG](https://www.youtube.com/watch?v=_eK0z5QbpKA).
+
+
+#### Etapas para configurar o ambiente virtual para o Django:
+- Entre no **Prompt Anaconda** e vá até o caminho de seus projetos (caso tenha), caso não tenha, vá até o caminho do **Desktop** mesmo e coloque seu projeto lá (será mais fácil para achar, caso não esteja muito acostumado com caminhos no prompt). Agora, conheça alguns comandos para facilitar a utilização do _CMD_:
+
+```PowerShell
+  dir
+```
+- Utilizado para listar todas as pastas que existem naquele diretório.
+```PowerShell
+  cd
+```
+- Utilizado para navegar entre diretórios/pastas.
+```PowerShell
+  mkdir [nomedapastacriada]
+```
+- Utilizado para criar um(a) diretório/pasta, signifca _make diretory_
+```PowerShell
+  cls
+```
+- Utilizado para limpar o terminal, voltando para a primeira linha do terminal.
+```PowerShell
+  cd..
+```
+- Utilizado para voltar para um diretório/pasta anterior.
+```PowerShell
+  conda create -n [nomedapastacriada] python=3.6
+```
+- Utilizado para criar o ambiente virtual do Django. E após isso, você deverá utilizar outro comando para **ativar** ele, que é o seguinte:
+```PowerShell
+  conda activate [nomedapastacriada]
+```
+E agora para finalizar, utilizando o **PIP**, instale o **DJANGO**.
+```PowerShell
+  pip install django
+```
+Quer saber todas bibliotecas instaladas pelo **pip**?
+```PowerShell
+  pip freeze
+```
