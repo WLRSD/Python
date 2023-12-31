@@ -98,11 +98,11 @@ No _Python_ é necessário ter cuidado com letras Maiúsculas e minúsculas, poi
 ```PowerShell
   conda activate [nomedapastacriada]
 ```
-E agora para finalizar, utilizando o **PIP**, instale o **DJANGO**.
+ ###### E agora para finalizar, utilizando o **PIP**, instale o **DJANGO**.
 ```PowerShell
   pip install django
 ```
-Quer saber todas bibliotecas instaladas pelo **pip**?
+ ###### Quer saber todas bibliotecas instaladas pelo **pip**?
 ```PowerShell
   pip freeze
 ```
